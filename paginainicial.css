@@ -1,0 +1,73 @@
+#cabeçalho {
+    text-align: center;
+    background-image: url(img/fundo1.jpeg);
+}
+    
+
+.fonte {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 200%;
+    text-align: center;
+    text-decoration: cornflowerblue;
+}
+.li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size: 200%;
+     font-style: oblique;
+     text-align: center;
+}
+footer {
+    text-align: right;
+}
+
+.fontte { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size:150%;
+        text-align: center; 
+       background-color: #744b71;
+        
+} 
+
+hr{
+    border-style: groove;
+    border-bottom: 100cap;
+    border-color: palevioletred;
+}
+
+.pg { text-decoration-color: black;
+  
+}
+
+.container {
+    max-width: 1090px;
+    margin: 0 auto;
+    border: 1px solid #744b71;
+    display: flex;
+    font-size: 30px;
+
+}
+.row {
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #775675;
+}
+ .photo {
+    flex-direction: row;
+    justify-content: space-between;
+
+    
+ }
+
+ #meio {
+    background-color: #775675;
+    text-align: center;
+ }
+body{
+    background-color: #c29fbf;
+    text-align: center;
+}
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+footer {
+    text-align: right;
+}
+#titulo {
+    font-size: 400%;
+    font-style: normal;
+    color:#bb569d ;
+    text-align: center;
+
+}
+
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+section { 
+    background-color: hotpink;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#imagem1 {
+    text-align: center;
+}
+
+body {
+    background-image: url(img/img5.jpeg);
+}
+
+.titulo2 {
+    margin-top: 100px;
+    font-size: 40px;
+    font-style: italic;
+    background-color: #c28c8c;
+}
+.sub {
+    background-color: #6b3232;
+}

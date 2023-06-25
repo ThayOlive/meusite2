@@ -1,0 +1,27 @@
+footer {
+    text-align: right;
+}
+body{
+    background-image: url(img/img15.jpg);
+}
+
+h1 {
+    color: #7b5f96;
+    font-size: 50px;
+    text-align: center;
+}
+
+.pm1{
+    background-color: #63c7a1;
+    margin-left:60px ;
+    margin-right: 60px;
+    text-align: center;
+
+}
+form{
+    background-color: #cfc038;
+}
+
+p { font-size: 20px;
+
+}
